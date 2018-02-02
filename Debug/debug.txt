@@ -1,0 +1,26 @@
+P1: Beaters(1)	P2: Beaters(1)	BALL: GoldenSnitch	RES: 0	SPELL: PenaltySpell
+Score[0]: 0	Score[1]: 0	Penalty[0]: 0	penalty[1]: 0
+P1: Chasers(4)	P2: Keepers(6)	BALL: Quaffle	RES: 0	SPELL: PenaltySpell
+Score[0]: 0	Score[1]: 0	Penalty[0]: 0	penalty[1]: 0
+P1: Chasers(11)	P2: Keepers(9)	BALL: Bludger	RES: 0	SPELL: BonusSpell
+Score[0]: 0	Score[1]: 0	Penalty[0]: 0	penalty[1]: 0
+P1: Chasers(6)	P2: Beaters(1)	BALL: Quaffle	RES: -1	SPELL: BonusSpell
+Score[0]: 10	Score[1]: 0	Penalty[0]: 0	penalty[1]: 0
+P1: Beaters(2)	P2: Beaters(2)	BALL: GoldenSnitch	RES: 0	SPELL: InvalidSpell
+Score[0]: 10	Score[1]: 0	Penalty[0]: 0	penalty[1]: 0
+P1: Seekers(11)	P2: Seekers(13)	BALL: Quaffle	RES: 1	SPELL: BonusSpell
+Score[0]: 10	Score[1]: 10	Penalty[0]: 0	penalty[1]: 0
+P1: Keepers(7)	P2: Beaters(1)	BALL: Bludger	RES: 0	SPELL: JamSpell
+Score[0]: 10	Score[1]: 10	Penalty[0]: 0	penalty[1]: 0
+P1: Keepers(9)	P2: Chasers(2)	BALL: Bludger	RES: 0	SPELL: JamSpell
+Score[0]: 10	Score[1]: 10	Penalty[0]: 0	penalty[1]: 0
+P1: Keepers(9)	P2: Chasers(10)	BALL: GoldenSnitch	RES: 0	SPELL: InvalidSpell
+Score[0]: 10	Score[1]: 10	Penalty[0]: 0	penalty[1]: 0
+P1: Seekers(12)	P2: Chasers(10)	BALL: Bludger	RES: 0	SPELL: JamSpell
+Score[0]: 10	Score[1]: 10	Penalty[0]: 0	penalty[1]: 0
+P1: Chasers(5)	P2: Chasers(6)	BALL: Bludger	RES: 0	SPELL: JamSpell
+Score[0]: 10	Score[1]: 10	Penalty[0]: 0	penalty[1]: 0
+P1: Beaters(0)	P2: Keepers(9)	BALL: Quaffle	RES: 0	SPELL: PenaltySpell
+Score[0]: 10	Score[1]: 10	Penalty[0]: 0	penalty[1]: 0
+P1: Beaters(2)	P2: Seekers(11)	BALL: GoldenSnitch	RES: 1	SPELL: JamSpell
+Score[0]: 10	Score[1]: 160	Penalty[0]: 0	penalty[1]: 0

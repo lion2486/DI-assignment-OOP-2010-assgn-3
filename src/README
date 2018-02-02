@@ -1,0 +1,7 @@
+Compile Command:
+g++ -o <name> quidditch.cpp ball.cpp
+
+Usage ./name -N <num> -rand <num>
+The -n <num> and the -rand <num> parametrs are optional.
+(-N sets the max number of rounds of the game)
+(-rand sets the srand() parametr to start the random numbers genarator)
